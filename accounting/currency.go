@@ -3,7 +3,7 @@ package accounting
 import (
 	"encoding/json"
 
-	"github.com/XeroAPI/xerogolang"
+	"github.com/sipsynergy/xerogolang"
 	"github.com/markbates/goth"
 )
 
